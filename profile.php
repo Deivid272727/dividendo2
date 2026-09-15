@@ -240,7 +240,7 @@ foreach ($imagenes_guardadas as $row) {
   </div>
 
 <div class="showcase-section">
-    <div class="showcase-title">Mi galeria</div>
+    <div class="showcase-title">Mii galeria</div>
     <div class="showcase-grid">
       
       <!-- CUADRO 1 -->
