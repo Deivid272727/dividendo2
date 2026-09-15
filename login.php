@@ -269,7 +269,7 @@ if (isset($_POST['login_btn'])) {
 
 
              <div class="toggle-panel toggle-right"> 
-            <h1> Que rollo miamor</h1>
+            <h1> Que rollo hermano</h1>
             <p> No se papu ahi dice otra cosa x2 </p>
             <button class="hidden" id= "register"> Sign Up</button>
             </div>
