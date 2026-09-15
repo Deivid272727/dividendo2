@@ -7,7 +7,7 @@ require_once 'bd/conexion.php';
 
 /*
 |--------------------------------------------------------------------------
-| PON AQUÍ TU CLIENT ID DE GOOGLE
+| PON AQUÍ TU CLIENT ID DE GOOGLE 
 |--------------------------------------------------------------------------
 */
 $CLIENT_ID = '1088139853006-cdps7llshndaa283unf04bt3nhq5a1pu.apps.googleusercontent.com';
@@ -53,7 +53,7 @@ try {
 
     /*
     |--------------------------------------------------------------------------
-    | SI NO EXISTE, LO CREAMOS
+    | SI NO EXISTE, LO CREAREMOS
     |--------------------------------------------------------------------------
     */
     if (!$user) {
