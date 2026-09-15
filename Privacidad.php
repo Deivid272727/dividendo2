@@ -42,7 +42,7 @@
         <li>Enviar notificaciones relacionadas con la cuenta cuando sea necesario.</li>
     </ul>
 
-    <h2>Protección de la información</h2>
+    <h2>Protección de la información paps</h2>
 
     <p>
         La seguridad de los datos personales es una prioridad para esta plataforma.
