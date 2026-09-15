@@ -203,7 +203,7 @@ DOCTYPE html>
                     <i class="bx bx-moon icon moon"></i>
                     <i class="bx bx-sun icon sun"></i>
                 </div>
-                <span class="mode-text text"> Dark Mode</span>
+                <span class="mode-text text"> Modo Oscuro</span>
                 <div class="toggle-switch">
                     <span class="switch"></span>
                 </div>
